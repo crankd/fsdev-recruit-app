@@ -43,5 +43,12 @@ If you need to change any other `http-server` options, review the [configuration
 
 To view the app in your preferred web browser, navigate to [http://localhost:8080](http://localhost:8080).  If you modified the `http-server` options for address of port, navigate to the URL and port you configured.
 
-## Exercises
+## Troubleshooting the install and launch
+
+If you run into trouble in the install of launch, try these steps to remedy:
+
+- If the `http-server` throws a 'path not found' error, you can run `http-server` on demand, with any custom configuration options using the command `npx http-server [path] [options]` and substituting the `path` and `options` as needed.   See all [Installation options for http-server](https://www.npmjs.com/package/http-server#installation).
+- 
+
+# Exercises
 
