@@ -82,6 +82,8 @@ If you run into trouble in the install of launch, try these steps to remedy:
 
 To stop the app hit `CTRL+C` keys.  The terminal running the process will display its current state. 
 
-# Exercises
-
-These will be provided to you during your interview.
+# Developer Interview and Technical Exercises Summary
+ 
+The technical interview with exercises will be approx 55 minutes in length via a Zoom call.   The zoom link will be provided beforehand.
+- You will be asked to install, review, troubleshoot, extend, and improve the code base.
+- You will be asked questions about this project during your interview.  
