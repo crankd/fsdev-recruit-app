@@ -52,3 +52,4 @@ If you run into trouble in the install of launch, try these steps to remedy:
 
 # Exercises
 
+These will be provided to you during your interview.
