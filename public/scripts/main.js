@@ -15,7 +15,7 @@ const init = async (id) => {
 const controller = async (id) => {
   const pagesAll = await pages();
   const page = pagesAll.find(p => p.id === id.toLowerCase());
-  console.log('controller() page:',page);
+  // console.log('controller() page:',page);
   if (page) {
     menu(id, pagesAll); // render menu
     contentRender("page-title", page.title);
@@ -120,7 +120,7 @@ const users = async (url) => {
     }
   });
   const data = await response.json();
-  console.log("users() data", data);
+  // console.log("users() data", data);
   return list('list-users', data);
 };
 // data: company

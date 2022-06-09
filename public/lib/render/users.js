@@ -25,6 +25,5 @@ const listItem = (list, item) => {
 }
 
 export {
-  list,
-  listItem
+  list
 }

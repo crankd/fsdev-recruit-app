@@ -1,11 +1,24 @@
 {
   "name": "recruit-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple web app with HTML, CSS, and JavaScript to evaluate full stack developer candidates",
   "scripts": {
     "start": "http-server ./ -c-1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "https://github.com/crankd",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "main": "index.html",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crankd/fsdev-recruit-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crankd/fsdev-recruit-app/issues"
+  },
+  "homepage": "https://github.com/crankd/fsdev-recruit-app#readme"
 }
