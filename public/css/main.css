@@ -1,0 +1,24 @@
+body {
+  background-color: var(--gray-dark);
+}
+.container-fluid {
+  background-color: var(--light);
+  color: var(--dark);
+}
+main {
+  min-height:80vh !important;
+}
+footer {
+  margin:0;
+  padding:1rem;
+  color: var(--light);
+}
+#container-content {
+  background-color: var(--white);
+}
+#page-content {
+  background-color: var(--white);
+}
+h1 {
+  font-size: 1.5rem;
+}

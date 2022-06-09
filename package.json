@@ -1,0 +1,11 @@
+{
+  "name": "recruit-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "http-server ./ -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
